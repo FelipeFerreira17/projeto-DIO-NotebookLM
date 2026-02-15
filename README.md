@@ -15,5 +15,18 @@ Podemos enviar fontes através de documentos em vários formatos, como PDF por e
 O NotebookLM tem uma função de descobrir fontes. Com essa função ele pode fazer uma busca e sugerir opções de fontes. 
 
 ## Como usar o NotebookLM
+Acessar o site do NotebookLM
+Fazer login com a sua conta do Google
+Clicar em criar novo
+Envie suas fontes
+<img width="1354" height="666" alt="imagem notebookLM02-tres fontes" src="https://github.com/user-attachments/assets/9d164b5b-2fba-4e01-82cd-948870d72691" />
+Depois de incluídas as fontes, podemos fazer perguntas, e as respostasserão dadas com base somente das fontes que fornecemos.
+<img width="1351" height="636" alt="imagem notebookLM03-teste promeiro prompt" src="https://github.com/user-attachments/assets/1e5e97f9-6606-41a1-89b3-d731523caefc" /> 
+
+
+
+
+
+
 
 
