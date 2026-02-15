@@ -23,6 +23,22 @@ Envie suas fontes
 Depois de incluídas as fontes, podemos fazer perguntas, e as respostasserão dadas com base somente das fontes que fornecemos.
 <img width="1351" height="636" alt="imagem notebookLM03-teste promeiro prompt" src="https://github.com/user-attachments/assets/1e5e97f9-6606-41a1-89b3-d731523caefc" /> 
 
+## Prompts que podemos reutilizar
+Explique como organizar um orçamento pessoal incluindo:
+
+-definição
+
+-etapas práticas
+
+-erros comuns
+
+-exemplo numérico
+
+Simule um orçamento mensal para uma pessoa que ganha R$ 2.500
+
+Explique como orçamento, reserva de emergência e investimentos se relacionam.
+
+
 
 
 
