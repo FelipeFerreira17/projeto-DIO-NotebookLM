@@ -40,9 +40,10 @@ Depois de incluídas as fontes, podemos fazer perguntas, e as respostasserão da
 
 🔹Explique como orçamento, reserva de emergência e investimentos se relacionam.
 
+## Conclusão
+Podemos adicionar mais fontes e aumnetar a base de pensamento do NotebookLM. 
 
-
-
+O NotebookLM auxilia nos estudos daquilo que quisermos criar, e adicionando fontes confiáveis para se obter as respostas mais certas possíveis.
 
 
 
